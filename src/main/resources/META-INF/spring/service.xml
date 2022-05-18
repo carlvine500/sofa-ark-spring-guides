@@ -4,5 +4,6 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id = "sampleService" class="com.alipay.sofa.impl.SampleServiceImpl"/>
+    <bean id = "demoController" class="com.alipay.sofa.controller.DemoController"/>
 
 </beans>
